@@ -1,0 +1,8 @@
+src/asset/*
+
+node_modules/
+
+build/
+
+webpack.config.js
+webpack.dll.config.js
